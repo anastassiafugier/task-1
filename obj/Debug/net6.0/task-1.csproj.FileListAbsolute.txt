@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/task-1/task-1/bin/Debug/net6.0/task-1
+/Users/anastasia/Desktop/task-1/task-1/bin/Debug/net6.0/task-1.deps.json
+/Users/anastasia/Desktop/task-1/task-1/bin/Debug/net6.0/task-1.runtimeconfig.json
+/Users/anastasia/Desktop/task-1/task-1/bin/Debug/net6.0/task-1.dll
+/Users/anastasia/Desktop/task-1/task-1/bin/Debug/net6.0/ref/task-1.dll
+/Users/anastasia/Desktop/task-1/task-1/bin/Debug/net6.0/task-1.pdb
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.AssemblyInfo.cs
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.dll
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/ref/task-1.dll
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.pdb
+/Users/anastasia/Desktop/task-1/task-1/obj/Debug/net6.0/task-1.genruntimeconfig.cache
